@@ -1,0 +1,31 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"4.0" 
+[WORKSPACE_DETAILS]
+"bcr" "D:\0\workspace\bcr" "D:\0\workspace\bcr\bcr.hws" "SuperH RISC engine" "Hitachi SuperH Standard" 
+[SHARED_WORKSPACE_CONTROL_STATUS]
+"" "" "" 
+"" "" "" 
+[PROJECTS]
+"bcr" "D:\0\workspace\bcr\bcr" "D:\0\workspace\bcr\bcr\bcr.hwp" 0 
+[INFORMATION]
+"No workspace information available" 
+[SCRAP]
+[PROJECT_DEPENDENCY]
+[WORKSPACE_PROPERTIES]
+[VCS]
+"" "" "" 0 
+[VCS_PROJECT]
+[HELP_FILES]
+"c:\program files\hew3\tools\hitachi\sh\7_1_3\hew\stdlib.hlp" "C/C++ Standard Library Help" 0 
+"c:\tools\hew3\tools\hitachi\sh\7_1_3\hew\stdlib.hlp" "C/C++ Standard Library Help" 1 
+[GENERAL_DATA_PROJECT]
+[SYSMENUTOOLS]
+"Hitachi Mapview" "1.0" 
+"Hitachi Call Walker" "1.1" 
+"Hitachi H Series Librarian Interface" "1.1" 
+"Hitachi Debugging Interface + Simulator (H8S,H8/300)" "5.01" 
+[USERMENUTOOLS]
+[CUSTOMPLACEHOLDERS]
+[END]
